@@ -18,5 +18,7 @@ AVL Rotations Implemented.
 
 To run on command prompt:
   > gcc B_BST.c
+  
   > gcc -o B_BST B_BST.c
+  
   > B_BST.exe
